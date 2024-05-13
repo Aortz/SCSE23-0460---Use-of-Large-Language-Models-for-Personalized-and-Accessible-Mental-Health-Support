@@ -27,7 +27,7 @@ cd SCSE23-0460---Use-of-Large-Language-Models-for-Personalized-and-Accessible-Me
 2. Configuring the API Key for the Dialogue Scene:
 
 * Navigate to the ChatGPTManager.cs class using Assets > Scripts > Chat Interface from the root directory.
-* Find the varible 'apikey' and paste your OpenAI API key into this file. Save and close the file.
+* Find the variable 'apiKey' and paste your OpenAI API key into this file. Save and close the file.
 
 ## Running the Scenes
 ### WebGLCustomization Scene
