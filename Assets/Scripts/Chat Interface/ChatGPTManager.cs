@@ -32,7 +32,7 @@ public class ChatGPTManager : MonoBehaviour
     private readonly string apiKey = "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"; // Replace with your API Key
     private int currentMessageIndex = 0;
     private string[] messages = new string[] { "Hello", "How are you?", "I'm fine, thank you." };
-    private OpenAIApi OpenAI = new OpenAIApi("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");
+    private OpenAIApi OpenAI = new OpenAIApi("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"); // Replace with your API Key
     // private List<ChatMessage> messages = new List<ChatMessage>();
     private string threadID = "";
     private string assistantID = "";
